@@ -1,0 +1,13 @@
+{
+    "name": "azure-functions-timer-javascript",
+    "version": "1.0.0",
+    "description": "Azure Functions Timer Trigger sample written in JavaScript",
+    "scripts": {
+        "start": "func start",
+        "test": "echo \"No tests yet...\""
+    },
+    "dependencies": {
+        "@azure/functions": "^4.8.0"
+    },
+    "main": "src/functions/*.js"
+}
